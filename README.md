@@ -1,4 +1,4 @@
-#H1 IvanTixier-hw1
+IvanTixier-hw1
 
 -In this first homework, I created my CV page with HTML/CSS and I also did the backend part to route user on the localhost on my CV page. 
 
